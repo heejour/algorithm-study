@@ -12,4 +12,3 @@ def palindrome(s):
             return False
 
     return True
-ㅎ
